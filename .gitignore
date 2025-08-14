@@ -1,0 +1,20 @@
+# Node.js dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Vite/React cache
+.vite/
+.cache/
+
+# System and IDE files
+.DS_Store
+*.log
+*.tmp
+.idea/
+.vscode/
+
+# Environment files (for API keys etc.)
+.env*
